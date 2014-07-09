@@ -1,0 +1,8 @@
+# Logfile created on 2014-07-09 13:08:36 -0400 by logger.rb/1.2.8
+[0;97;49mStarted GET "/" at 2014-07-09 13:08:48 -0400[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 49.8ms
+
+[0m
