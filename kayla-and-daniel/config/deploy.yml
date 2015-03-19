@@ -1,15 +1,4 @@
-development:
-  host: dev.example.com
-  email: john@doe.net
-  password: apassword
-  # api_key: <your api key here>
-staging:
-  host: staging.example.com
-  email: john@doe.net
-  password: apassword
-  # api_key: <your api key here>
 production:
   host: kaylaanddaniel.locomotivehosting.com
   api_key: 0345750689b0f2c262e6cdd0070b59f530dbedcb
   ssl: true
-  # api_key: <your api key here>

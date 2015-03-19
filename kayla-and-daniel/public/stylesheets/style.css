@@ -1,0 +1,26 @@
+#next { position: fixed; color: white; bottom: 0; z-index: 10; width: 100%; text-align: center; font-size: 30px; background: rgba(0,0,0,0.25); }
+
+.slide { padding: 50px 0; }
+.image { text-align: center; }
+.image img { max-width: 100%; height: auto; }
+
+#venue { background: url(../images/barn-view.jpg) no-repeat center center fixed; -webkit-background-size: cover;-moz-background-size: cover; -o-background-size: cover; background-size: cover;}
+#venue .box { padding: 20px; background: rgba(255,255,255,0.5); }
+#venue .box h2 { margin-top: 0; }
+
+.slide.red { background: #96413e; color: white; }
+.slide.blue { background: #93BCDC; color: white; }
+
+
+.fa-tie:before { display: inline-block; vertical-align: middle; content: ""; width: 31.5px; height: 57px; background: url("../images/tie-icon.png") no-repeat; background-size: 100% 100%; }
+.fa-pig:before { display: inline-block; vertical-align: middle; content: ""; width: 57px; height: 57px; background: url("../images/pig-icon.png") no-repeat; background-size: 100% 100%; }
+.fa-cards:before { display: inline-block; vertical-align: middle; content: ""; width: 57px; height: 57px; background: url("../images/cards-icon.png") no-repeat; background-size: 100% 100%; }
+
+#final-note { background: url(../images/castle.jpg) no-repeat center center fixed; -webkit-background-size: cover;-moz-background-size: cover; -o-background-size: cover; background-size: cover;}
+#final-note .box { padding: 20px; background: rgba(255,255,255,0.75); }
+#final-note .box h2 { margin-top: 0; }
+
+#rsvp-button { position: absolute; right: 25px; top: 25px; }
+#rsvp-button small { font-size: 16px; vertical-align: middle; }
+
+.well { background: rgba(0,0,0,0.25); border: 0; }
